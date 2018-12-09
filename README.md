@@ -3,6 +3,6 @@ A mock social list of friends of robots
 
 ![Page's Preview](/preview.png)
 
-###FEATURES:
+### FEATURES:
   - React
   - Tachyons (for Styling)
